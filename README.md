@@ -1,5 +1,7 @@
 # @bacons/text-decoder
 
+> This is now in Expo SDK 52 https://docs.expo.dev/versions/v52.0.0/sdk/encoding/
+
 In Expo SDK 51 (React Native 74), Hermes supports TextEncoder natively but not TextDecoder. This library provides a TextDecoder implementation for Hermes that only supports UTF-8 (all legacy encodings are removed for bundle size).
 
 You can install it on the global with:
