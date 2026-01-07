@@ -2,7 +2,7 @@
 
 A lightweight TextDecoder polyfill for React Native Hermes that only supports UTF-8.
 
-The implementation is a fork of [`text-encoding`](https://github.com/EvanBacon/text-encoding/) without dependencies, built as a standalone library with both CommonJS and ES module support.
+The implementation is a fork of [`text-encoding`](https://github.com/EvanBacon/text-decoder) without dependencies, built as a standalone library with both CommonJS and ES module support.
 
 ## Installation
 
