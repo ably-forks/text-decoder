@@ -5,7 +5,7 @@
     "moduleResolution": "bundler",
     "outDir": "./build/types",
     "declaration": true,
-    "declarationMap": true,
+    "declarationMap": false,
     "emitDeclarationOnly": true
   }
 }
