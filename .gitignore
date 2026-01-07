@@ -128,4 +128,5 @@ dist
 
 /build
 
-/.expo
+.claude/
+.idea/
